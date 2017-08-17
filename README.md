@@ -2,7 +2,7 @@
 
 
 
-By alexisolavarria.
+By [*alexisolavarria*](https://github.com/alexisolavarria).
 
 'hello', is a simple rule based chatbot written in Ruby. 
 
@@ -12,8 +12,7 @@ This is my first time writing .rb. My goal is for 'hello' to help me expand my k
 
 ## Authors
 
-* **Alexis Olavarria** - *Initial Commit* - [alexisolavarria](https://github.com/alexisolavarria)
-
+* [**Alexis Olavarria**](https://github.com/alexisolavarria)
 
 ## License
 
@@ -21,6 +20,4 @@ This project is currently not licensed
 
 ## Acknowledgments
 
-* Hat tip to [ivywentcamping](https://github.com/ivywentcamping)
-
-
+* Hat tip to my good friend [Friday](https://github.com/darrowby385)
